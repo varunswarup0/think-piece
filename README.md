@@ -3,6 +3,7 @@
 
 |[DOCUMENTATION](https://firebase.google.com/docs "Firebase's Docs")       |
 | ------------- |
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 > A fast and scalable spp hosted with Firebase hosting
 > which will serve as a boilerplate for future  apps 
