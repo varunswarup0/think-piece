@@ -4,7 +4,7 @@
 |[DOCUMENTATION](https://firebase.google.com/docs "Firebase's Docs")       |
 | ------------- |
 
-![alt text](https://github.com/varunswarup0/think-piece/blob/master/think-piece.png)
+![alt text](https://github.com/varunswarup0/think-piece/blob/master/thinkPiece-mockup.png)
 
 # Cloud Firestore is based on collections
 
