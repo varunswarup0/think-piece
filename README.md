@@ -6,6 +6,18 @@
 
 ![alt text](https://github.com/varunswarup0/think-piece/blob/master/thinkPiece-mockup.png)
 
+What I learned from building this app, we've got a real-time database that is highly scalable and a lot more, in a lot of ways, more manageable than the real-time database was. The real-time database is great. I've done a lot of really cool stuff with that. But Cloud Firestore solves a lot; you had to be very nuanced with the real-time database. 
+
+With Cloud Firestore, you're able to structure stuff, in kind of the way you would think about your application, and build documents that start from a UI, backward. I think a lot of us, as front-end engineers, have gotten APIs. I like to joke at work that I can take any blueprint that the back-end team makes and build anything off of that.
+
+I can take any designs that the UI/UX team makes and build anything based on that. But sometimes, when both of those documents cross my desk simultaneously, I can't do anything, right, and that's where it becomes difficult. And so I think being able to kind of think about, first of all, the number of apps that you could build now, that you probably wouldn't.
+
+And this is the kind of thing we were talking about the other day, as well. But there are many times when I'm like, I want to build this app, and I sit down and am excited. And then I remember I have to implement authentication, and then all of the joy leaves my body, and I do anything else.
+
+Now, I flip a switch. I've got some authentication. I think the number of apps that you can build and scale now, because this is on Google's infrastructure, right? Effectively, should you design and architect your system well, there's no reason that you couldn't scale this pretty well. You've got file storage, you've got a database, you've got authentication, we can run back-end functions, right?
+
+For me, I think Firebase is one of the more exciting platforms to build just web services on. And I've had a lot of fun with it, and I plan on having a lot more fun with it in the future.
+
 # Cloud Firestore is based on collections
 
 In the Real time database, you get whatever node of the
