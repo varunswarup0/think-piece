@@ -4,7 +4,7 @@
 |[DOCUMENTATION](https://firebase.google.com/docs "Firebase's Docs")       |
 | ------------- |
 
-![alt text](https://github.com/varunswarup0/think-piece/blob/master/thinkPiece-mockup.png)
+![alt text](https://raw.githubusercontent.com/varunswarup0/mock-ups/main/think-piece/thinkPiece-mockup.png)
 
 What I learned from building this app, we've got a real-time database that is highly scalable and a lot more, in a lot of ways, more manageable than the real-time database was. The real-time database is great. I've done a lot of really cool stuff with that. But Cloud Firestore solves a lot; you had to be very nuanced with the real-time database. 
 
