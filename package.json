@@ -7,7 +7,7 @@
 		"firebase-admin": "^8.10.0",
 		"firebase-functions": "^3.5.0",
 		"firebase-tools": "^6.1.2",
-		"moment": "^2.22.2",
+		"moment": "^2.29.4",
 		"react": "^16.7.0-alpha.2",
 		"react-dom": "^16.7.0-alpha.2",
 		"react-redux": "^6.0.0",
